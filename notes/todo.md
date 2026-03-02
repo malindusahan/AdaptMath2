@@ -6,5 +6,4 @@
 # note Start LinTS selector
 # note Add four bandit arms
 - done: Connect learner response
-- done: Compare reward types
-- done: Update paper plots
+- done: Start move selector
