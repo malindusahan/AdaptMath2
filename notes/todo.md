@@ -1,1 +1,1 @@
-- done: Start move selector
+- done: Add four move labels
