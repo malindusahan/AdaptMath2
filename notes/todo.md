@@ -7,3 +7,4 @@
 # note Add four bandit arms
 - done: Connect learner response
 - done: Start move selector
+# note Load MathDial data
