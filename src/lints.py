@@ -1,3 +1,3 @@
-# Clean docs and repo
-# date: 2026-10-16
+# Build training samples
+# date: 2026-03-16
 # status: working
