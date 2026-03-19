@@ -8,3 +8,4 @@
 - done: Connect learner response
 - done: Start move selector
 # note Load MathDial data
+# note Split train and test
