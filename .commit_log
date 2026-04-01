@@ -7,3 +7,4 @@ Split train and test
 Format dialogue input
 Remove future turns
 Check label counts
+Add majority baseline
