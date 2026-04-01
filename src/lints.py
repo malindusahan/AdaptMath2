@@ -1,3 +1,3 @@
-# Build training samples
-# date: 2026-03-16
+# Add majority baseline
+# date: 2026-04-01
 # status: working
