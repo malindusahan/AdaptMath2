@@ -10,3 +10,4 @@
 # note Load MathDial data
 # note Split train and test
 # note Check label counts
+# note Add TF-IDF baseline
