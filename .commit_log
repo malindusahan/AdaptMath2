@@ -5,3 +5,4 @@ clean mathematical question text
 prepare development and evaluation data
 add word level tfidf pipeline
 experiment with word ngram settings
+add character level tfidf features
