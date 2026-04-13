@@ -1,1 +1,1 @@
-# updated: Add four move labels
+# updated: Add basic training
