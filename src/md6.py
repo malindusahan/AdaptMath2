@@ -1,1 +1,1 @@
-# updated: Remove future turns
+# updated: Add basic training
