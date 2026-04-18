@@ -1,3 +1,3 @@
-# Build training samples
-# date: 2026-03-16
+# Check move scores
+# date: 2026-04-18
 # status: working
