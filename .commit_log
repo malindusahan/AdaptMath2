@@ -8,3 +8,4 @@ experiment with word ngram settings
 add character level tfidf features
 train ridge demand estimator
 add regression evaluation metrics
+compare text feature configurations
