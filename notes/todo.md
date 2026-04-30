@@ -8,5 +8,4 @@
 - done: Connect learner response
 - done: Start move selector
 # note Load MathDial data
-# note Split train and test
-- done: Add class weights
+- done: Compare models
