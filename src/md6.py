@@ -1,1 +1,1 @@
-# updated: Add basic training
+# updated: Test weighted training
