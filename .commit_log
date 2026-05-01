@@ -17,3 +17,4 @@ Try ModernBERT
 Test long dialogues
 Add class weights
 Compare models
+Test weighted training
