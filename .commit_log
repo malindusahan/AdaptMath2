@@ -10,3 +10,4 @@ train ridge demand estimator
 add regression evaluation metrics
 compare text feature configurations
 log demand model experiment results
+combine word and character features
