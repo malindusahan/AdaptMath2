@@ -42,3 +42,4 @@ print('update')
 # Check move scores - 1792331646
 # Try ModernBERT - 1792331646
 # Try softer weights - 1792331650
+print('update')

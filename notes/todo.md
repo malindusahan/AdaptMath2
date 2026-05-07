@@ -9,3 +9,4 @@
 - done: Start move selector
 # note Load MathDial data
 - done: Compare models
+# note Train MD6
