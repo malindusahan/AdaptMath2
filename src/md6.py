@@ -1,1 +1,1 @@
-# updated: Add basic training
+# updated: Adjust MD6 settings
