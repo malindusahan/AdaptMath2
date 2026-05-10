@@ -8,5 +8,4 @@
 - done: Connect learner response
 - done: Start move selector
 # note Load MathDial data
-- done: Compare models
-# note Train MD6
+- done: Adjust MD6 settings
