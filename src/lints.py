@@ -1,3 +1,3 @@
-# Test long dialogues
-# date: 2026-04-24
+# Check macro F1
+# date: 2026-05-14
 # status: working
