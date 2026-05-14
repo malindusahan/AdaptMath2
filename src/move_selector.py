@@ -7,3 +7,4 @@ print('update')
 # Test weighted training - 1792330762
 # Try softer weights - 1792330763
 print('update')
+print('update')
