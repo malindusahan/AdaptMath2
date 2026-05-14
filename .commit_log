@@ -12,3 +12,4 @@ compare text feature configurations
 log demand model experiment results
 combine word and character features
 refine ridge regression pipeline
+evaluate official E2H AMC split
