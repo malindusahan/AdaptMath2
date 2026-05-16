@@ -1,3 +1,3 @@
-# Check move scores
-# date: 2026-04-18
+# Pick best checkpoint
+# date: 2026-05-16
 # status: working
