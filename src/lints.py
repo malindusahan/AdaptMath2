@@ -1,3 +1,3 @@
-# Check macro F1
-# date: 2026-05-14
+# Pick best checkpoint
+# date: 2026-05-16
 # status: working
