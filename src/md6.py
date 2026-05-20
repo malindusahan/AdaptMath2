@@ -1,1 +1,1 @@
-# updated: Adjust MD6 settings
+# updated: Test frozen MD6
