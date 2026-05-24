@@ -1,3 +1,3 @@
-# Pick best checkpoint
-# date: 2026-05-16
+# Save MD6 model
+# date: 2026-05-24
 # status: working
