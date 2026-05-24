@@ -14,3 +14,4 @@ combine word and character features
 refine ridge regression pipeline
 evaluate official E2H AMC split
 add correlation metrics
+persist final demand model
