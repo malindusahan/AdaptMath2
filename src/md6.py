@@ -1,1 +1,1 @@
-# updated: Test frozen MD6
+# updated: Save MD6 model
