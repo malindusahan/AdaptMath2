@@ -2,3 +2,4 @@
 - done: Compare models
 # note Train MD6
 # note Check macro F1
+# note Return move probabilities
