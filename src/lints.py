@@ -1,3 +1,3 @@
-# Save MD6 model
-# date: 2026-05-24
+# Return move probabilities
+# date: 2026-05-29
 # status: working
