@@ -8,5 +8,4 @@
 - done: Connect learner response
 - done: Start move selector
 # note Load MathDial data
-- done: Adjust MD6 settings
-# note Test frozen MD6
+- done: Start LinTS selector
