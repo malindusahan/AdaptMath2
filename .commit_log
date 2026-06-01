@@ -26,3 +26,4 @@ Pick best checkpoint
 Test frozen MD6
 Save MD6 model
 Return move probabilities
+Start LinTS selector
