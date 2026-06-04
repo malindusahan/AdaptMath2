@@ -9,3 +9,4 @@
 - done: Start move selector
 # note Load MathDial data
 - done: Start LinTS selector
+# note Add four bandit arms
