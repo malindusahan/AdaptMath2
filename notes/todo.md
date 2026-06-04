@@ -4,3 +4,4 @@
 # note Check macro F1
 # note Return move probabilities
 # note Start LinTS selector
+# note Add four bandit arms
