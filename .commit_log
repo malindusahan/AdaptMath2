@@ -17,3 +17,4 @@ add correlation metrics
 persist final demand model
 add runtime demand prediction service
 create tutoring router module
+add demand score routing input
