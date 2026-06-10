@@ -29,3 +29,4 @@ Return move probabilities
 Start LinTS selector
 Add four bandit arms
 Build selector context
+Add MD6 probabilities
