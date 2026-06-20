@@ -1,1 +1,1 @@
-# updated: Add previous signals
+# updated: Handle missing signals
