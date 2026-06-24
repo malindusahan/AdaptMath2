@@ -7,3 +7,4 @@
 # note Add four bandit arms
 # note Build selector context
 # note Add MD6 probabilities
+# note Sample arm scores
