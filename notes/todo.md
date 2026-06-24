@@ -10,3 +10,4 @@
 # note Load MathDial data
 - done: Start LinTS selector
 # note Add four bandit arms
+# note Sample arm scores
