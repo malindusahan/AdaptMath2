@@ -1,3 +1,3 @@
-# Pick best checkpoint
-# date: 2026-05-16
+# Test move selection
+# date: 2026-06-29
 # status: working
