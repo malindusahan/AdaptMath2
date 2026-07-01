@@ -6,5 +6,4 @@
 # note Start LinTS selector
 # note Add four bandit arms
 # note Build selector context
-# note Add MD6 probabilities
-# note Sample arm scores
+- done: Save selected move
