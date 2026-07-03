@@ -8,5 +8,4 @@
 - done: Connect learner response
 - done: Start move selector
 # note Load MathDial data
-- done: Start LinTS selector
-- done: Test move selection
+- done: Add arm update
