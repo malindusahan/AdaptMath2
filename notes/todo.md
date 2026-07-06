@@ -5,5 +5,4 @@
 # note Return move probabilities
 # note Start LinTS selector
 # note Add four bandit arms
-# note Build selector context
-- done: Save selected move
+- done: Connect learner response
