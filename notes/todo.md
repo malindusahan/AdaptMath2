@@ -6,3 +6,4 @@
 # note Start LinTS selector
 # note Add four bandit arms
 - done: Connect learner response
+# note Add mastery delta
