@@ -10,3 +10,4 @@
 # note Load MathDial data
 - done: Add arm update
 # note Connect learner response
+# note Add mastery delta
