@@ -29,3 +29,4 @@ add tutor workflow state
 create response verification module
 add semantic response checks
 integrate sympy verification
+validate arithmetic claims
