@@ -41,3 +41,4 @@ Connect learner response
 Link BKT changes
 Add mastery delta
 Normalize reward
+Handle zero reward
