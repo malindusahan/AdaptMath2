@@ -1,3 +1,3 @@
-# Add BKT state
-# date: 2026-06-13
+# Handle zero reward
+# date: 2026-07-19
 # status: working
