@@ -42,3 +42,4 @@ Link BKT changes
 Add mastery delta
 Normalize reward
 Handle zero reward
+Block invalid updates
