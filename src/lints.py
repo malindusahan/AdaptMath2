@@ -1,3 +1,3 @@
-# Add arm update
-# date: 2026-07-03
+# Block invalid updates
+# date: 2026-07-22
 # status: working
