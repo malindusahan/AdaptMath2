@@ -31,3 +31,4 @@ add semantic response checks
 integrate sympy verification
 validate arithmetic claims
 validate symbolic expressions
+add contradiction and scope checks
