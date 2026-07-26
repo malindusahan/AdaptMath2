@@ -43,3 +43,4 @@ Add mastery delta
 Normalize reward
 Handle zero reward
 Block invalid updates
+Check context leakage
