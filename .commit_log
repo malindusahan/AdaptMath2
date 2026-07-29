@@ -44,3 +44,4 @@ Normalize reward
 Handle zero reward
 Block invalid updates
 Check context leakage
+Test reward updates
