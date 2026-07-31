@@ -32,3 +32,4 @@ integrate sympy verification
 validate arithmetic claims
 validate symbolic expressions
 add contradiction and scope checks
+test verified tutor response flow
