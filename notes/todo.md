@@ -11,5 +11,4 @@
 - done: Add arm update
 # note Connect learner response
 # note Add mastery delta
-# note Block invalid updates
-# note Test reward updates
+- done: Connect Tutor backend
