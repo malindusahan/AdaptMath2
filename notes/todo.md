@@ -7,3 +7,4 @@
 # note Add four bandit arms
 - done: Connect learner response
 # note Add mastery delta
+# note Pass move to Tutor
