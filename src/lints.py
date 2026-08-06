@@ -1,3 +1,3 @@
-# Connect Tutor backend
-# date: 2026-08-02
+# Keep MD6 frozen
+# date: 2026-08-06
 # status: working
