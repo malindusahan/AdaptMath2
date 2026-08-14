@@ -6,5 +6,4 @@
 # note Start LinTS selector
 # note Add four bandit arms
 - done: Connect learner response
-# note Add mastery delta
-- done: Check multiple turns
+- done: Save decision context
