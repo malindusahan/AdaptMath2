@@ -40,3 +40,4 @@ create assessment generator
 add three question assessment flow
 create learner response evaluator
 add structured evaluator output
+connect evaluator to assessment flow
