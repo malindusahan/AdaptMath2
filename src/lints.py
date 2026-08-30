@@ -1,3 +1,3 @@
-# Keep MD6 frozen
-# date: 2026-08-06
+# Export tutor turns
+# date: 2026-08-30
 # status: working
