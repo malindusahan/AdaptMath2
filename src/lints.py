@@ -1,3 +1,3 @@
-# Handle zero reward
-# date: 2026-07-19
+# Clean turn records
+# date: 2026-08-31
 # status: working
