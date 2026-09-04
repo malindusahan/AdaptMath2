@@ -6,5 +6,4 @@
 # note Start LinTS selector
 # note Add four bandit arms
 - done: Connect learner response
-- done: Save decision context
-# note Add action logs
+- done: Filter invalid turns
