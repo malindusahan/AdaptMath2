@@ -13,5 +13,4 @@
 # note Add mastery delta
 - done: Connect Tutor backend
 # note Connect student memory
-# note Fix attempt linking
-# note Filter invalid turns
+- done: Check missing features
