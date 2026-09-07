@@ -1,3 +1,3 @@
-# Add data checks
-# date: 2026-09-01
+# Check missing features
+# date: 2026-09-07
 # status: working
