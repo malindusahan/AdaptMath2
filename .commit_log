@@ -75,3 +75,4 @@ Add documentation
 Finish component
 Fix edge case in delta
 Clean resolver logic
+Improve path ordering
