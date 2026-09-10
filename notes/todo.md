@@ -12,5 +12,4 @@
 # note Connect learner response
 # note Add mastery delta
 - done: Connect Tutor backend
-# note Connect student memory
-- done: Check missing features
+- done: Check action counts
