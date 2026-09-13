@@ -6,5 +6,4 @@
 # note Start LinTS selector
 # note Add four bandit arms
 - done: Connect learner response
-- done: Filter invalid turns
-# note Check action counts
+- done: Compare reward types
