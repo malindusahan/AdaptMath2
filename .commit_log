@@ -77,3 +77,4 @@ Fix edge case in delta
 Clean resolver logic
 Improve path ordering
 Handle empty skill list
+Fix prior loading bug
