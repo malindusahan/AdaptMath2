@@ -48,3 +48,4 @@ define tutoring workflow state
 add workflow graph transitions
 integrate problem demand node
 integrate routing and planner nodes
+integrate tutor and verification nodes
