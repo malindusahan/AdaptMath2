@@ -49,3 +49,4 @@ add workflow graph transitions
 integrate problem demand node
 integrate routing and planner nodes
 integrate tutor and verification nodes
+integrate assessment and evaluator nodes
