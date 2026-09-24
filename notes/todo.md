@@ -12,5 +12,4 @@
 # note Connect learner response
 # note Add mastery delta
 - done: Connect Tutor backend
-- done: Check action counts
-# note Add context ablations
+- done: Bootstrap results
