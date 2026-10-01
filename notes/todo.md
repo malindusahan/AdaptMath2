@@ -11,5 +11,4 @@
 - done: Add arm update
 # note Connect learner response
 # note Add mastery delta
-- done: Connect Tutor backend
-- done: Bootstrap results
+- done: Final dataset checks
