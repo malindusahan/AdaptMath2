@@ -54,3 +54,4 @@ add checkpoint persistence
 connect learner profile and memory context
 integrate pedagogical move input
 verify multi turn session resume
+add evaluator benchmark suite
