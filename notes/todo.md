@@ -7,5 +7,4 @@
 # note Add four bandit arms
 - done: Connect learner response
 - done: Compare reward types
-# note Review ablation scores
-# note Final dataset checks
+- done: Update paper plots
