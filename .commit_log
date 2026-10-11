@@ -57,3 +57,4 @@ verify multi turn session resume
 add evaluator benchmark suite
 expand response verification tests
 add assessment information leakage tests
+test remediation and reassessment transitions
