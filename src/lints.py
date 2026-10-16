@@ -1,3 +1,3 @@
-# Compare reward types
-# date: 2026-09-13
+# Clean docs and repo
+# date: 2026-10-16
 # status: working
