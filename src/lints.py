@@ -1,3 +1,3 @@
-# Check missing features
-# date: 2026-09-07
+# Clean docs and repo
+# date: 2026-10-16
 # status: working
