@@ -1,0 +1,89 @@
+Add basic student model
+Add basic evaluator
+Add BKT update
+Add confidence
+Separate behaviour signals
+Add skill mastery
+Add answer states
+One observation per event
+Add BKT params
+Add reasoning check
+Add uncertainty check
+Add clarification check
+Add signal resolver
+Handle correct uncertainty
+Handle wrong uncertainty
+Handle unknown answers
+Fix reasoning mastery
+Fix duplicate observations
+Add evidence notes
+Test signal resolver
+Mastery during tutoring
+Add progress evaluator
+Add attempt handling
+Save mastery before
+Add mastery delta
+Support negative delta
+Add final assessment
+Connect assessment to BKT
+Use delta as reward
+Fix move selector mastery
+Test attempt mastery
+Fix initial prior
+Keep initial prior
+Add prior types
+Save prior in graph
+Keep mastery between attempts
+Move mastery to graph
+Save mastery history
+Block invalid updates
+Add history recompute
+Check BKT recompute
+Test skill isolation
+Start path generator
+Load prerequisites
+Use mastery with prerequisites
+Add skill states
+Set strong threshold
+Handle multiple parents
+Add recommended order
+Add path states
+Add next skill results
+Remove similarity check
+Connect path and student model
+Test path generator
+Connect everything
+Snapshot mastery
+Connect MD6 and LinTS
+Update BKT on turns
+Update BKT after assessment
+Add attempt reward
+Remove turn rewards
+Check attempt id
+Snapshot check
+Check early LinTS update
+Check final assessment
+Check attempt outcome
+Check mastery delta
+Check reward value
+Check delayed update
+Check prior save
+Check mastery continuity
+Check BKT results
+Check skill isolation
+Add documentation
+Finish component
+Fix edge case in delta
+Clean resolver logic
+Improve path ordering
+Handle empty skill list
+Fix prior loading bug
+Add more attempt tests
+Small refactor in BKT
+Update docs
+Fix continuity check
+Handle missing mastery
+Improve error messages
+Clean old test code
+Fix path state bug
+Final cleanup
