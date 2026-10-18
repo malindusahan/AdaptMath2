@@ -1,0 +1,71 @@
+Start move selector
+Add four move labels
+Load MathDial data
+Clean tutor dialogues
+Build training samples
+Split train and test
+Format dialogue input
+Remove future turns
+Check label counts
+Add majority baseline
+Add TF-IDF baseline
+Train logistic model
+Try DistilRoBERTa
+Add basic training
+Check move scores
+Try ModernBERT
+Test long dialogues
+Add class weights
+Compare models
+Test weighted training
+Try softer weights
+Train MD6
+Adjust MD6 settings
+Check macro F1
+Pick best checkpoint
+Test frozen MD6
+Save MD6 model
+Return move probabilities
+Start LinTS selector
+Add four bandit arms
+Build selector context
+Add MD6 probabilities
+Add BKT state
+Add previous signals
+Handle missing signals
+Sample arm scores
+Test move selection
+Save selected move
+Add arm update
+Connect learner response
+Link BKT changes
+Add mastery delta
+Normalize reward
+Handle zero reward
+Block invalid updates
+Check context leakage
+Test reward updates
+Connect Tutor backend
+Pass move to Tutor
+Keep MD6 frozen
+Connect student memory
+Fix attempt linking
+Check multiple turns
+Save decision context
+Add action logs
+Export tutor turns
+Clean turn records
+Add data checks
+Filter invalid turns
+Check missing features
+Check action counts
+Compare reward types
+Run grouped folds
+Add context ablations
+Bootstrap results
+Review ablation scores
+Final dataset checks
+Fix results tables
+Update paper plots
+Add final tests
+Clean docs and repo
