@@ -31,3 +31,36 @@ print('update')
 # Bootstrap results - 1792330795
 print('update')
 print('update')
+print('update')
+# Clean tutor dialogues - 1792331637
+print('update')
+# Format dialogue input - 1792331640
+# Remove future turns - 1792331640
+print('update')
+print('update')
+print('update')
+# Check move scores - 1792331646
+# Try ModernBERT - 1792331646
+# Try softer weights - 1792331650
+print('update')
+print('update')
+print('update')
+# Build selector context - 1792331657
+# Add MD6 probabilities - 1792331658
+print('update')
+print('update')
+# Link BKT changes - 1792331665
+print('update')
+# Normalize reward - 1792331666
+print('update')
+print('update')
+# Pass move to Tutor - 1792331671
+# Keep MD6 frozen - 1792331672
+print('update')
+print('update')
+# Save decision context - 1792331674
+# Export tutor turns - 1792331676
+print('update')
+# Run grouped folds - 1792331681
+print('update')
+# Update paper plots - 1792331685
